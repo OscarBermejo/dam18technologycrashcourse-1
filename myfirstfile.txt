@@ -1,1 +1,18 @@
-prova
+## Assignment 4
+
+Una vez copiados los datos privados de *s3* de agosto y convertidos de
+*json* a *csv*, los he cargado en excel y unido a los que teníamos de
+septiembre.
+
+[Aquí](https://github.com/tsagaste/dam18technologycrashcourse) está el
+link al archivo excel donde he calculado el ratio de errores por usuario
+y he creado la tabla dinámica para ver la evolución del promedio diario
+de errores y del ratio durante los 2 meses. También he añadido la línea
+de tendencia del ratio de errores y efectivamente la pendiente es
+negativa, lo que nos indica que la tendencia es a disminuir el número de
+errores, así que en mi opinión **el equipo técnico se ha ganado el
+bonus**.
+
+Dejo el gráfico que lo justifica a continuación:
+
+![gráfico de errores](https://i.imgur.com/igVTarc.png)
